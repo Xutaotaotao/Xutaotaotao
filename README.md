@@ -5,7 +5,7 @@
 
 This is a place to write code.
 
-| <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xutaotaotao&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xutaotaotao&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xutaotaotao&show_icons=true&include_all_commits=true&hide_border=true" alt="Xutaotaotao's github stats" /></a> | <a ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xutaotaotao&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
