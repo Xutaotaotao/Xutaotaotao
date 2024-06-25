@@ -17,3 +17,6 @@ This is a place to write code.
 
 **Visitor count:**
 <img src="https://profile-counter.glitch.me/Xutaotaotao/count.svg" />
+
+**Wecaht:**
+<img src="https://taotaoxu.com/wx_qr.jpg" />
