@@ -19,5 +19,5 @@ This is a place to write code.
 <h5>Visitor count</h5>
 <img style="margin-top:18px" src="https://profile-counter.glitch.me/Xutaotaotao/count.svg" />
 
-<h5>Wecaht</h5>
+<h5>Wechat</h5>
 <img src="https://taotaoxu.com/wx_qr.jpg" />
