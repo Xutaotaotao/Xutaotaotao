@@ -20,4 +20,4 @@ This is a place to write code.
 <img style="margin-top:18px" src="https://profile-counter.glitch.me/Xutaotaotao/count.svg" />
 
 <h5>Wechat</h5>
-<img src="https://taotaoxu.com/wx_qr.jpg" />
+<img src="https://xutaotaotao.github.io/wx_qr.jpg" />
