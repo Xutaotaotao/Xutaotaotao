@@ -3,7 +3,7 @@
 
 **Hi there, I'm Xuxu 👋**
 
-**My Blog, [https://Xutaotaotao.github.io](https://Xutaotaotao.github.io) **
+**My blog, [https://Xutaotaotao.github.io](https://Xutaotaotao.github.io)**
 
 This is a place to write code.
 
